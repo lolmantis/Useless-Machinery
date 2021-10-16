@@ -1,6 +1,6 @@
 from random import randint
 
-line,line2,rolls,count,total_rolls = [],[],[],0,0
+line,rolls,count,total_rolls = [],[],0,0
 
 while True:
     chance = randint(1,6)
